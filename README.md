@@ -1,6 +1,3 @@
-
-**Full Name**: Cloves Adriano Paiva Sousa
-
 **Occupation**: Data Analyst
 
 **E-mail**: clovesgtx@gmail.com
