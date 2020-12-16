@@ -24,6 +24,6 @@ I was born and raised in the Brazil countryside, passionate about exact sciences
 
 * **Languages**: I have fun studing languages and I am currently studying German and one of its dialects here in Brazil called [Hunsrückisch](https://en.wikipedia.org/wiki/Hunsr%C3%BCckisch_dialect). I'm a big fan of the [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) channel.
 
-* **Write**: I like to write about things that I'm learning. [Here](https://medium.com/me/stories/public) are some of my articles on Medium.
+* **Write**: I like to write about things that I'm learning. [Here](https://clovesadriano.medium.com/) are some of my articles on Medium.
 
 [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/4e9fe77bc8a4a16f746221a8f7eb77501106e04b/stack-overflow2.svg)](https://stackoverflow.com/users/6693125/cloves-paiva?tab=profile)   [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/6e248bc61e9bae48bb052d78ee9257f603564cdd/instagram2.svg)](https://www.instagram.com/clovesgtx/)
