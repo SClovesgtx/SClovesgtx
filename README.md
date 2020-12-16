@@ -3,9 +3,7 @@
 
 **Função**: Data Analyst
 
-**e-mail**: cloves.paiva@extremedigital.com.br
-
-**Telefone**: (11) 9 8406-8732
+**e-mail**: clovesgtx@gmail.com
 
 **Localidade**: Florianópolis - SC - Brazil
 
@@ -14,12 +12,12 @@
 [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/3c371b6c3e9ba01c84157bf09944cd30db3fd9e8/github.svg)](https://github.com/SClovesgtx)     [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/4e9fe77bc8a4a16f746221a8f7eb77501106e04b/stack-overflow2.svg)](https://stackoverflow.com/users/6693125/cloves-paiva?tab=profile)  [![Foo](https://github.com/SClovesgtx/pics/blob/master/twitter-cloves.png?raw=true)](https://twitter.com/clovesgtx) [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/6e248bc61e9bae48bb052d78ee9257f603564cdd/instagram2.svg)](https://www.instagram.com/clovesgtx/)
 
 
-# 1 - Short Biography
+### 1 - Short Biography
 
 A guy born and raised in the Brazil countryside, passionate about exact sciences, who did not succeed finishing his Statistics graduation at IME-USP (I'm a dropout) but keep studying math as a hobby.
 
 
-# 2 - What can I do?
+### 2 - What can I do?
 
  * Descriptive analysis of numerical and textual data (Python, R).
  * Dashboards and reports (Python, Kibana, AWS SageMaker and Watson Studio).
@@ -28,7 +26,7 @@ A guy born and raised in the Brazil countryside, passionate about exact sciences
  * Chatbots development (Watson Assistent, Omni NLP API).
  * RESTful APIs (Flask)
 
-# 3 - What are my interests?
+### 3 - What are my interests?
 
 
 * **Mathematics and Statistics**: Even though I'm not the genius of math, this is the area of knowledge that interests me most. I am always reading, watching a documentary or taking a course related to physics, mathematics, statistics and probability. My favorite channels on these topics are [The Coding Train](https://www.youtube.com/user/shiffman), [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), and [Numberphile](https://www.youtube.com/user/numberphile).
@@ -44,7 +42,7 @@ A guy born and raised in the Brazil countryside, passionate about exact sciences
 
 
 
-# 4 - Certifications
+### 4 - Certifications
 
 * [Cluster Analysis in Data Mining](https://www.coursera.org/account/accomplishments/verify/PFQGR7HDHLDH)
 
