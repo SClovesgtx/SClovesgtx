@@ -1,11 +1,11 @@
 
-**Nome**: Cloves Adriano Paiva Sousa
+**Full Name**: Cloves Adriano Paiva Sousa
 
-**Função**: Data Analyst
+**Occupation**: Data Analyst
 
-**e-mail**: clovesgtx@gmail.com
+**E-mail**: clovesgtx@gmail.com
 
-**Localidade**: Florianópolis - SC - Brazil
+**Locality**: Florianópolis - SC - Brazil
 
 **Social networks**:
 
