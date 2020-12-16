@@ -14,7 +14,7 @@
 
 ### 1 - Short Biography
 
-A guy born and raised in the Brazil countryside, passionate about exact sciences, who did not succeed finishing his Statistics graduation at IME-USP (I'm a dropout) but keep studying math as a hobby.
+I was born and raised in the Brazil countryside, passionate about exact sciences, a guy who did not succeed finishing his Statistics graduation at IME-USP (I'm a dropout) but keep studying math as a hobby.
 
 
 ### 2 - What can I do?
