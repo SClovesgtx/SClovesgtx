@@ -9,7 +9,7 @@
 
 **Social networks**:
 
-[![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/3c371b6c3e9ba01c84157bf09944cd30db3fd9e8/github.svg)](https://github.com/SClovesgtx)     [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/4e9fe77bc8a4a16f746221a8f7eb77501106e04b/stack-overflow2.svg)](https://stackoverflow.com/users/6693125/cloves-paiva?tab=profile)  [![Foo](https://github.com/SClovesgtx/pics/blob/master/twitter-cloves.png?raw=true)](https://twitter.com/clovesgtx) [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/6e248bc61e9bae48bb052d78ee9257f603564cdd/instagram2.svg)](https://www.instagram.com/clovesgtx/)
+[![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/4e9fe77bc8a4a16f746221a8f7eb77501106e04b/stack-overflow2.svg)](https://stackoverflow.com/users/6693125/cloves-paiva?tab=profile) [![Foo](https://github.com/SClovesgtx/pics/blob/master/twitter-cloves.png?raw=true)](https://twitter.com/clovesgtx) [![Foo](https://raw.githubusercontent.com/SClovesgtx/pics/6e248bc61e9bae48bb052d78ee9257f603564cdd/instagram2.svg)](https://www.instagram.com/clovesgtx/)
 
 
 ### 1 - Short Biography
