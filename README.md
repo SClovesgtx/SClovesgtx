@@ -1,10 +1,10 @@
 
-### 1 - Short Biography
+### Short Biography
 
 I was born and raised in the Brazil countryside, passionate about exact sciences, a guy who did not succeed finishing his Statistics graduation at IME-USP (I'm a dropout) but keep studying math as a hobby.
 
 
-### 2 - What can I do?
+### What can I do?
 
  * Descriptive analysis of numerical and textual data (Python, R).
  * Dashboards and reports (Python, Kibana, AWS SageMaker and Watson Studio).
@@ -13,7 +13,7 @@ I was born and raised in the Brazil countryside, passionate about exact sciences
  * Chatbots development (Watson Assistent, Omni NLP API).
  * RESTful APIs (Flask)
 
-### 3 - What are my interests?
+### What are my interests?
 
 
 * **Mathematics and Statistics**: Even though I'm not the genius of math, this is the area of knowledge that interests me most. I am always reading, watching a documentary or taking a course related to physics, mathematics, statistics and probability. My favorite channels on these topics are [The Coding Train](https://www.youtube.com/user/shiffman), [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), and [Numberphile](https://www.youtube.com/user/numberphile).
