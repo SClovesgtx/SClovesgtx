@@ -11,7 +11,7 @@ I was born and raised in the Brazil countryside, passionate about exact sciences
  * ETL processes.
  * NLP model training (ANNs, BM25, LDA, etc).
  * Chatbots development (Watson Assistent, Omni NLP API).
- * RESTful APIs (Flask)
+ * REST APIs (Flask)
 
 ### What are my interests?
 
@@ -20,9 +20,9 @@ I was born and raised in the Brazil countryside, passionate about exact sciences
 
 * **Machine Learning**: I know conceptually the main ML models and I feel comfortable enough to apply them. My favorite channels on these topics are [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) and [sentdex](https://www.youtube.com/user/sentdex).
 
-* **Music**: I really like instrumental music and Brazilian Popular Music. I play percussion instruments, guitar and cavaquinho. Click [here](https://www.youtube.com/watch?v=Mx3BUHaibDI) to see me playing.
+* **Music**: I really like Brazilian Popular Music. I play percussion instruments, bandolim and cavaquinho. Click [here](https://www.youtube.com/watch?v=Mx3BUHaibDI) to see me playing.
 
-* **Languages**: I have fun studing languages and I am currently studying German and one of its dialects here in Brazil called [Hunsrückisch](https://en.wikipedia.org/wiki/Hunsr%C3%BCckisch_dialect). I'm a big fan of the [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) channel.
+* **Languages**: I have fun studing languages and I am currently studying a German dialects called [Hunsrückisch](https://en.wikipedia.org/wiki/Hunsr%C3%BCckisch_dialect). 
 
 * **Write**: I like to write about things that I'm learning. [Here](https://clovesadriano.medium.com/) are some of my articles on Medium.
 
