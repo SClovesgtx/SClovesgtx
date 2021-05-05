@@ -22,7 +22,7 @@ I was born and raised in the Brazil countryside, passionate about exact sciences
 
 * **Music**: I really like Brazilian Popular Music. I play percussion instruments, bandolim and cavaquinho. Click [here](https://www.youtube.com/watch?v=Mx3BUHaibDI) to see me playing.
 
-* **Languages**: I have fun studing languages and I am currently studying a German dialects called [Hunsrückisch](https://en.wikipedia.org/wiki/Hunsr%C3%BCckisch_dialect). 
+* **Languages**: I have fun studing languages and I am currently studying a German dialect called [Hunsrückisch](https://en.wikipedia.org/wiki/Hunsr%C3%BCckisch_dialect) that is used in many places here in southern Brazil. 
 
 * **Write**: I like to write about things that I'm learning. [Here](https://clovesadriano.medium.com/) are some of my articles on Medium.
 
