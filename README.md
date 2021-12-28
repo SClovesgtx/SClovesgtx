@@ -1,3 +1,5 @@
+My personal blog [here](https://c-student-blog.vercel.app/)
+
 ### What can I do?
 
  * Descriptive analysis of numerical and textual data.
