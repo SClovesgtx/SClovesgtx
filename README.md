@@ -1,4 +1,4 @@
-My personal blog [here](https://c-student-blog.vercel.app/)
+My personal blog [here](https://c-student-blog.vercel.app/).
 
 ### What can I do?
 
