@@ -1,10 +1,11 @@
-My personal blog [here](https://c-student-blog.vercel.app/).
+# My personal blog [here](https://c-student-blog.vercel.app/).
 
 ### What can I do?
 
- * Descriptive analysis of numerical and textual data.
- * Dashboards and reports.
  * ETL
+ * Automation of data routines
+ * Descriptive analysis of numerical and textual data.
+ * Dashboards.
  * Chatbots development.
  * REST APIs.
 
