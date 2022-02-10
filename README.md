@@ -4,8 +4,7 @@ My personal blog [here](https://c-student-blog.vercel.app/).
 
  * Descriptive analysis of numerical and textual data.
  * Dashboards and reports.
- * ETL.
- * NLP.
+ * ETL
  * Chatbots development.
  * REST APIs.
 
