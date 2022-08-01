@@ -2,12 +2,14 @@
 
 ## What can I do?
 
+* Python package development
+* API development
 * NLU Analysis
 * Exploratory analysis of numerical and textual data
 * Task automation
 * Data and information mining
 * Dashboards with Kibana
-* Elasticsearch
+* Elasticsearch DBA, DSL Queries
 * Development of digital assistents with IBM Watson Assistant
 * NLU/NLP concepts.
 * ETL
