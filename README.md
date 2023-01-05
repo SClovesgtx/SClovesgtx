@@ -4,11 +4,10 @@
 
 * Python package development
 * API development
-* NLU Analysis
 * Exploratory analysis of numerical and textual data
 * ETL
-* Task automation
+* Automation tasks
 * Data and information mining
 * Dashboards with Kibana
-* Elasticsearch DBA, DSL Queries
+* Elasticsearch (DBA and DSL Queries)
 * Development of digital assistents with IBM Watson Assistant
