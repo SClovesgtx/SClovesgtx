@@ -1,4 +1,4 @@
-# My personal blog [here](https://c-student-blog.vercel.app/).
+# My personal blog [here](https://medium.com/@clovesadriano).
 
 ## What can I do?
 
@@ -9,5 +9,5 @@
 * Automation tasks
 * Data and information mining
 * Dashboards with Kibana
-* Elasticsearch (DBA and DSL Queries)
+* Elasticsearch
 * Development of digital assistents with IBM Watson Assistant
