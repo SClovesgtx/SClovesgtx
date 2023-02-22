@@ -7,7 +7,7 @@
 * Exploratory analysis of numerical and textual data
 * ETL
 * Automation tasks
-* Data and information mining
+* Data mining
 * Dashboards with Kibana
 * Elasticsearch
 * Development of digital assistents with IBM Watson Assistant
