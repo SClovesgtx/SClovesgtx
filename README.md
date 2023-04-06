@@ -1,4 +1,4 @@
-# My personal blog [here](https://medium.com/@clovesadriano).
+# My twitch channel [here](https://www.twitch.tv/clovespy/about).
 
 ## What can I do?
 
