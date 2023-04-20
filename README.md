@@ -13,5 +13,5 @@ As time went by, I started to get more and more involved with software developme
 - **Python**: this is my main language and the one I use at work.
 
 - **Cython**: Recently I've been studying this Python *superset* to use it in the development of the [fuzzCy](https://github.com/SClovesgtx/fuzzCy) library that I'm streaming every Saturday.
-- 
+
 - **Java**: I'm already on the third course in a row on the [coursera](https://www.coursera.org/) platform where the language used to present the concepts is Java, so I'm starting to get familiar with it.
