@@ -1,12 +1,17 @@
-# My twitch channel [here](https://www.twitch.tv/clovespy/about).
+# Who am I?
 
-## What can I do?
+My name is Cloves Paiva, I'm 33 years old, married and currently living in Florianópolis-Brazil.
 
-* Python package development
-* API development
-* Exploratory analysis of numerical and textual data
-* ETL
-* Automation tasks
-* Dashboards with Kibana
-* Elasticsearch
-* Chatbot Development
+I'm a software developer at [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
+
+I studied statistics for 3 years at IME-USP (I'm a dropout) and therefore, for 4 years of my life, I worked as a Data Analyst.
+
+As time went by, I started to get more and more involved with software development and today all my study efforts are focused on this area.
+
+# What languages do I use?
+
+- **Python**: this is my main language and the one I use at work.
+
+- **Cython**: Recently I've been studying this Python *superset* to use it in the development of the [fuzzCy](https://github.com/SClovesgtx/fuzzCy) library that I'm streaming every Saturday.
+- 
+- **Java**: I'm already on the third course in a row on the [coursera](https://www.coursera.org/) platform where the language used to present the concepts is Java, so I'm starting to get familiar with it.
