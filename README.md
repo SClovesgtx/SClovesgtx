@@ -1,16 +1,16 @@
-# Quem sou eu?
+# Who am I?
 
-Me chamo Cloves Paiva, tenho 33 anos, casado e trabalho na área de tecnologia desde 2016.
+My name is Cloves Paiva, I'm 33 years old, married and I've been working in the technology field since 2016.
 
-Atualemnte sou desenvolvedor de software na [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
+I am currently a software developer at [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
 
-Estudei estatística por 3 anos no IME-USP (sou dropout) e por isso, durante 4 anos da minha vida, eu atuei na área de dados. 
+I studied statistics for 3 years at IME-USP (I'm a dropout) and therefore, for 4 years of my life, I worked in the data area.
 
-Com o passar do tempo comecei a me envolver cada vez mais com o desenvolvimento de software e hoje todo meu esforço de estudos é focado nesta área.
+As time went by, I started to get more and more involved with software development and today all my study efforts are focused on this area.
 
-# Quais linguages eu uso?
+# What languages do I use?
 
-- **Python**: esta é minha linguagem principal e a que uso no trabalho.
+- **Python**: this is my main language and the one I use at work.
 
-- **Cython**: recentemente tenho estudado este *superset* do Python para usá-lo no desenvolvimento da biblioteca [fuzzCy](https://github.com/SClovesgtx/fuzzCy) que estou transmitindo todos os sábados.
-- **Java**: já estou no terceiro curso seguido lá plataforma [coursera](https://www.coursera.org/) onde a linguagem usada para apresentar os conceitos é o Java, então estou começando a me familiarizar com ela.
+- **Cython**: Recently I've been studying this Python *superset* to use it in the development of the [fuzzCy](https://github.com/SClovesgtx/fuzzCy) library that I'm streaming every Saturday.
+- **Java**: I'm already on the third course in a row on the [coursera](https://www.coursera.org/) platform where the language used to present the concepts is Java, so I'm starting to get familiar with it .
