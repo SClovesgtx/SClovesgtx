@@ -2,7 +2,7 @@
 
 My name is Cloves Paiva, I'm 33 years old, married and I've been working in the technology field since 2016.
 
-I am currently a software developer at [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
+I am currently a software developer at [Extreme Digital Solution](https://www2.extremedigital.com.br/).
 
 I studied statistics for 3 years at [IME-USP](https://www.ime.usp.br/) (I'm a dropout) and therefore, for 4 years of my life, I worked as a Data Analyst.
 
