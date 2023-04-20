@@ -1,17 +1,16 @@
-# Who am I?
+# Quem sou eu?
 
-My name is Cloves Paiva, I'm 33 years old, married and currently living in Florianópolis-Brazil.
+Me chamo Cloves Paiva, tenho 33 anos, casado e trabalho na área de tecnologia desde 2016.
 
-I'm a software developer at [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
+Atualemnte sou desenvolvedor de software na [Extreme Digital Solution](https://www.linkedin.com/company/extremedigitalsolutions/).
 
-I studied statistics for 3 years at IME-USP (I'm a dropout) and therefore, for 4 years of my life, I worked as a Data Analyst.
+Estudei estatística por 3 anos no IME-USP (sou dropout) e por isso, durante 4 anos da minha vida, eu atuei na área de dados. 
 
-As time went by, I started to get more and more involved with software development and today all my study efforts are focused on this area.
+Com o passar do tempo comecei a me envolver cada vez mais com o desenvolvimento de software e hoje todo meu esforço de estudos é focado nesta área.
 
-# What languages do I use?
+# Quais linguages eu uso?
 
-- **Python**: this is my main language and the one I use at work.
+- **Python**: esta é minha linguagem principal e a que uso no trabalho.
 
-- **Cython**: Recently I've been studying this Python *superset* to use it in the development of the [fuzzCy](https://github.com/SClovesgtx/fuzzCy) library that I'm streaming every Saturday.
-
-- **Java**: I'm already on the third course in a row on the [coursera](https://www.coursera.org/) platform where the language used to present the concepts is Java, so I'm starting to get familiar with it.
+- **Cython**: recentemente tenho estudado este *superset* do Python para usá-lo no desenvolvimento da biblioteca [fuzzCy](https://github.com/SClovesgtx/fuzzCy) que estou transmitindo todos os sábados.
+- **Java**: já estou no terceiro curso seguido lá plataforma [coursera](https://www.coursera.org/) onde a linguagem usada para apresentar os conceitos é o Java, então estou começando a me familiarizar com ela.
