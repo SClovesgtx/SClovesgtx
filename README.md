@@ -6,7 +6,7 @@ I am currently a software developer at [Extreme Digital Solution](https://www.li
 
 I studied statistics for 3 years at [IME-USP](https://www.ime.usp.br/) (I'm a dropout) and therefore, for 4 years of my life, I worked in the data area.
 
-As time went by, I started to get more and more involved with software development and today all my study efforts are focused on this area.
+As time went by, **I started to get more and more involved with software development and today all my study efforts are focused on this area**.
 
 # What languages do I use?
 
