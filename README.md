@@ -1,6 +1,6 @@
 # Who am I?
 
-My name is Cloves Paiva, I am 33 years old, married, and I have been working in the technology field since 2017. Currently, I am a mix of Software Developer and Data Analyst working at [Extreme Digital Solution](https://www2.extremedigital.com.br/).
+I have been working in the technology field since 2017. Currently, I am a mix of Software Developer and Data Analyst working at [Extreme Digital Solution](https://www2.extremedigital.com.br/).
 
 # What languages do I use?
 
