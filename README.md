@@ -1,6 +1,6 @@
 # Who am I?
 
-I have been working in the technology field since 2017. Currently, I am a mix of Software Developer and Data Analyst working at [Extreme Digital Solution](https://www2.extremedigital.com.br/).
+I have been working in the technology field since 2017. Currently I am a data analyst with experience in descriptive statistics focused on chatbots.
 
 # What languages do I use?
 
