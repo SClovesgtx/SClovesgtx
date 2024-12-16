@@ -1,8 +1,6 @@
-# Who am I?
 
-I have been working in the technology field since 2017. Currently I am a data analyst with experience in descriptive statistics focused on chatbots.
+- [My YouTube Chanel](https://www.youtube.com/@matematicaHobby)
+- [My Discord Server](https://discord.com/invite/BAxM7Qx8Vm)
+- [My Math Stack Exchange Profile](https://math.stackexchange.com/users/1276383/matem%c3%a1tica-como-hobby)
+- [My Medium Profile](https://mathobby.medium.com/)
 
-# What languages do I use?
-
-- **Python**: This is my main language and the one I use at work.
-- **JavaScript and TypeScript**: These are languages used in some of the projects at my job, and although I am not familiar with them, I am able to manage some maintenance work.
